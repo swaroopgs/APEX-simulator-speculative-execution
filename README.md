@@ -1,10 +1,7 @@
-# APEX-simulator-speculative-execution
-This project demonstrates a simulator which simulates the working of a processor supporting speculative execution along with out of order processing using Issue Queue, Re-order Buffer, Register renaming and Load-Store Queue among others to speed up execution.
-
 ---------------------------------------------------------------------------------
 APEX Pipeline Simulator
 ---------------------------------------------------------------------------------
-A simple implementation of 7 Stage APEX Pipeline
+An implementation of 7 Stage APEX out-of-order Pipeline with speculative execution
 Author :
 ---------------------------------------------------------------------------------
 Swaroop Gowdra Shanthakumar
