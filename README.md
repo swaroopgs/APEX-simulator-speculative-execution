@@ -10,6 +10,8 @@ Notes:
 ----------------------------------------------------------------------------------
 1) This codes implements a simulator for the simulation of an out-of-order processor which supports speculative execution.
 2) Supports speculative excecution, data forwarding, branching, functional units, memory instructions  and utilizes ROB, LSQ, Issue Queue to speed up execution.  
+
+File-Info:
 ----------------------------------------------------------------------------------
 1) Makefile 			- To make the compile and run process easier
 2) file_parser.c 	- Contains Functions to parse input file. No need to change this file
